@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CCChain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CCChain_jar</output-path>
+    <root id="archive" name="CCChain.jar">
+      <element id="module-output" name="CCChain" />
+    </root>
+  </artifact>
+</component>
